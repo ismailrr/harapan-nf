@@ -25,12 +25,13 @@ Harapan Mahasiswa untuk Kampus Tercinta
 5. [Create a pull request](https://github.com/abraincode/harapan-nf/pulls)
 
 ### Example file 🎃
-path: `haraapan/(username).html`
+path: `haraapan/{username}.html`
 ```html
 Nama: Dhimas Akbar Noor Baihaque
 Prodi: Sistem Informasi
 Semester: 7
-Harapan: Semoga STT Nurul Fikri menjadi Kampus Open Source terbaik di Indonesia.
+Harapan: {isi harapan kamu}
+Kritik: {isi kritik kamu}
 ```
 
 ## Hall of Fame :fire:
